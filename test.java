@@ -17,5 +17,6 @@ class GetInputData
             System.out.println("Can vote");
         }
     }
-}
+} 
+lks
 
